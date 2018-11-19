@@ -1,11 +1,16 @@
 _repo: Educating-by-Story-Telling-Showing-the-Value-of-Story-Telling-as-an-Educational-Tool-for-the-__58255
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58255-h/images/cover.jpg
 creator:
   author:
     agent_name: Cather, Katherine Dunlap
     gutenberg_agent_id: '49859'
     url: http://www.gutenberg.org/2009/agents/49859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58255#Educating-by-Story-Telling-Showing-the-Value-of-Story-Telling-as-an-Educational-Tool-for-the-_
 gutenberg_issued: '2018-11-09'
 gutenberg_type: Text
 identifiers:
